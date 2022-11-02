@@ -1,0 +1,11 @@
+{
+  "name": "template-website",
+  "version": "1.0.0",
+  "description": "Loja Virtual",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Pedro Mundim de Oliveira",
+  "license": "MIT"
+}
